@@ -1,0 +1,17 @@
+git status
+git show
+git log -2
+git tag -ln
+
+
+git add .      			(取消暂存：git unstage 文件名)
+git commit -m "zongzi init"     (撤销commit ：git commit - -amend)
+git tag -a v1.1.0 -m "粽子小程序的初始化版本"
+git push origin v1.1.0
+
+使用：1.0.2是版本
+https://cdn.jsdelivr.net/gh/Dreamweaver484/CDN@1.0.2/travel-my-images/welcome.jpg
+
+
+最新：
+https://cdn.jsdelivr.net/gh/Dreamweaver484/CDN@1.1.0/zongzi-images/zongzi.jpg
