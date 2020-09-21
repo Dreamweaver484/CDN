@@ -14,7 +14,7 @@ https://cdn.jsdelivr.net/gh/Dreamweaver484/CDN@1.0.2/travel-my-images/welcome.jp
 
 
 最新：
-https://cdn.jsdelivr.net/gh/Dreamweaver484/CDN@1.1.6/zongzi-images/index/breakthrough/hitmouse/vendor_hole01.png
+https://cdn.jsdelivr.net/gh/Dreamweaver484/CDN@1.1.7/zongzi-images/form.jpg
 
 用户名：Dreamweaver484
 e-mail:904983113@qq.com
